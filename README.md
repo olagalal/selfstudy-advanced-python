@@ -1,15 +1,11 @@
-
-Youtube playlist
-
-
 # Self-Study - Advanced Python
 
 ✨ This repo contains my practices to revise advanced python.
 
-This is based on this [Youtube playlist](https://youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&si=jB85SFN5mzNi92ft).
+> This is based on this [Youtube playlist](https://youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&si=jB85SFN5mzNi92ft).
 
 ## Topics
-1. Lists in Python
+1. [Lists in Python](\lists.py)
 2. Tuples in Python
 3. Dictionaries in Python
 4. Sets in Python 
