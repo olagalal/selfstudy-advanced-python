@@ -2,12 +2,12 @@
 
 ✨ This repo contains my practices to revise advanced python.
 
-> This is based on this [Youtube playlist](https://youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&si=jB85SFN5mzNi92ft).
+> This is based on this [Youtube playlist | by Patrick Loeber](https://youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&si=jB85SFN5mzNi92ft).
 
 ## Topics
 1. [Lists in Python](lists.py)
 2. [Tuples in Python](tuples.py)
-3. Dictionaries in Python
+3. [Dictionaries in Python](dictionaries.py)
 4. Sets in Python 
 5. Strings in Python 
 6. Collections in Python 
