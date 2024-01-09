@@ -87,4 +87,4 @@ print(mydict) #{(8, 7): 15}
 
 #lists can't (because it's mutable and unhashable)
 # mylist = [8,7]
-# mydict = {mylist: 15}
+# mydict = {mylist: 15} #Error
