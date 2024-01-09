@@ -6,7 +6,7 @@
 
 ## Topics
 1. [Lists in Python](lists.py)
-2. Tuples in Python
+2. [Tuples in Python](tuples.py)
 3. Dictionaries in Python
 4. Sets in Python 
 5. Strings in Python 
