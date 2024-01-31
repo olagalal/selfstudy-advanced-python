@@ -1,8 +1,7 @@
 # Self-Study - Advanced Python
 
 ✨ This repo contains my practices to revise advanced python.
-
-> This is based on this [Youtube playlist | by Patrick Loeber](https://youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&si=jB85SFN5mzNi92ft).
+✨ This is based on this [Youtube playlist | by Patrick Loeber](https://youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&si=jB85SFN5mzNi92ft).
 
 ## Topics
 1. [Lists in Python](lists.py)
@@ -11,7 +10,7 @@
 4. [Sets in Python](sets.py)
 5. [Strings in Python](strings.py)
 6. [Collections in Python](collections.py) 
-7. Itertools in Python
+7. [Itertools in Python](itertools_module.py)
 8. Lambda in Python 
 9. Exceptions in Python 
 10. Logging in Python 
